@@ -61,11 +61,31 @@ body {
     overflow: hidden;
     margin: auto;
 }
-.name .box .profile {
+.name .box .me {
     width: 100%;
     height: 100%;
     object-fit: cover;
 }
 .name h2{
     margin-top: 20px;
+}
+.profile{
+    background-color: #ffffff;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.profile img{
+    float: left;
+    margin-left: 200px;
+}
+.profile h3{
+    text-align: center;
+    margin-top: 33px;
+    font-size: 20px;
+    float: center;
+}
+.profile b{
+    color: #000000;
+    font-size: 25px;
 }
