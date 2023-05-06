@@ -1,7 +1,7 @@
 @charset "utf-8";
 *{
     margin: 0;
-    padding: 0;
+    padding: 5;
 }
 ul li{
     list-style: none;
@@ -31,9 +31,6 @@ body {
     float: left;
     line-height: 90px;
     font-size: 33px;
-}
-.header h2 a:hover{
-    color : #000000;
 }
 .header .menu{
     float: right;
