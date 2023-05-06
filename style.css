@@ -11,7 +11,37 @@ a {
     color: inherit;
 }
 body {
-    font-family: "나눔고딕", sans-serif;
+    font-family: 'Gowun Dodum', sans-serif;
     font-size: 16px;
-    color: #333233;
+    color: #0a559c;
+}
+.header {
+    width: 1140px;
+    height: 90px;
+    margin: 0 auto;
+}
+.header h1{
+    float: left;
+    padding-top: 20px;
+    margin-right: 25px;
+}
+.header h2{
+    float: left;
+    line-height: 90px;
+    font-size: 33px;
+}
+.header h2 a:hover{
+    color : #ffffff;
+}
+.header .menu{
+    float: right;
+}
+.header .menu li{
+    float: left;
+    margin-left: 40px;
+    line-height: 90px;
+}
+.header .menu li a:hover{
+    color : #ffffff;
+    text-decoration: underline;
 }
