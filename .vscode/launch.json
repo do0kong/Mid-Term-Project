@@ -7,8 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open Mid-Term-Project.html",
-            "file": "c:\\Visual Studio Code\\오픈소스SW활용\\Mid term project\\Mid-Term-Project.html"
+            "name": "Open index.html",
+            "file": "c:\\Visual Studio Code\\오픈소스SW활용\\Mid term project\\index.html"
         }
     ]
 }
