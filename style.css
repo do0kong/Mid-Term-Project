@@ -84,6 +84,9 @@ body {
     display: flex;
     justify-content: center;
 }
+.profile .ex img{
+    border-radius: 10%;
+}
 .profile .ex .my h3{
     text-align: left;
     margin-top: 13px;
