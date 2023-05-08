@@ -85,7 +85,7 @@ body {
     justify-content: center;
 }
 .profile .ex img{
-    border-radius: 10%;
+    border-radius: 50%;
 }
 .profile .ex .my h3{
     text-align: left;
